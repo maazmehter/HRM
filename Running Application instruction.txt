@@ -1,0 +1,4 @@
+Usage InstructionRun the application starting from the Front_Page.java class.
+Login details -
+Username - admin	
+Password - admin
